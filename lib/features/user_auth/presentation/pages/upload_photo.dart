@@ -78,16 +78,6 @@ class _UploadPhoto extends State<upload_photo> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              // ButtonWidget(
-              //   text: 'Select File',
-              //   icon: Icons.attach_file,
-              //   onClicked: selectFile,
-              // ),
-              // SizedBox(height: 8),
-              // Text(
-              //   fileName,
-              //   style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500),
-              // ),
               ElevatedButton.icon(
                 onPressed: btn ? selectFile : null,
                 style: ElevatedButton.styleFrom(
@@ -176,13 +166,6 @@ class _UploadPhoto extends State<upload_photo> {
         final snap = snapshot.data!;
         final progress = snap.bytesTransferred / snap.totalBytes;
         final percentage = (progress * 100).toStringAsFixed(2);
-
-        // if(progress==1) {
-        //       setState(() {
-        //           isButtonEnabled = true;
-        //         });
-        // }
-
             return Text(
           '$percentage %',
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),

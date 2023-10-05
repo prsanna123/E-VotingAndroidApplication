@@ -138,22 +138,6 @@ class _work extends State<work> {
     super.initState();
     dbRef = FirebaseDatabase.instance.ref().child('verification');
   }
-  // Future<void> fetchData() async {
-  //   final String apiUrl = 'YOUR_FLASK_API_URL'; // Replace with your Flask API URL
-  //
-  //   final response = await http.get(Uri.parse('$apiUrl/get_data?param1=${param1}&param2=${param2}'));
-  //
-  //   if (response.statusCode == 200) {
-  //     setState(() {
-  //       responseMessage = response.body;
-  //     });
-  //   } else {
-  //     setState(() {
-  //       responseMessage = 'Request failed with status: ${response.statusCode}';
-  //     });
-  //   }
-  // }
-
   Future<void> fetchData() async {
     int i1=param1.indexOf('token');
     int i2=param2.indexOf('token');

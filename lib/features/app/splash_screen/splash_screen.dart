@@ -52,7 +52,7 @@ class BackgroundImageWidget extends StatelessWidget {
           decoration: BoxDecoration(
             image: DecorationImage(
               image: AssetImage('assets/splash.png'),
-              fit: BoxFit.cover, // Optional: Adjust how the image fills the container
+              fit: BoxFit.cover,
             ),
           ),
         ),
@@ -61,7 +61,7 @@ class BackgroundImageWidget extends StatelessWidget {
             'Welcome to E-Voting Application!',
             style: TextStyle(
               fontSize: 24,
-              color: Colors.blue,
+              color: Colors.red;
             ),
           ),
         ),
