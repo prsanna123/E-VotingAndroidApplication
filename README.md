@@ -1,2 +1,16 @@
-# E-VotingAndroidApplication
- E_Voting Application Using the face detection.It is built with flutter and face detection is done using the machine learning.Firebase database is used to store the casted votes and for authentication purpose.
+# samp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

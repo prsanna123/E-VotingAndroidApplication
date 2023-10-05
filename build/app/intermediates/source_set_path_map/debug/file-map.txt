@@ -1,0 +1,46 @@
+com.example.samp.app-lifecycle-viewmodel-2.6.1-0 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\1284691fd42e6a7cdb77eabd355c3560\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.samp.app-jetified-startup-runtime-1.1.1-1 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\14dfc3983a4a46209f439b70d257468c\transformed\jetified-startup-runtime-1.1.1\res
+com.example.samp.app-jetified-savedstate-1.2.1-2 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\1cce00ee595211086578e72735c6461d\transformed\jetified-savedstate-1.2.1\res
+com.example.samp.app-jetified-emoji2-1.2.0-3 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\228419e26f5d253cbabc1a5dced15ed0\transformed\jetified-emoji2-1.2.0\res
+com.example.samp.app-jetified-play-services-base-18.1.0-4 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\237d3081442428b84c22a164c1a9fd7b\transformed\jetified-play-services-base-18.1.0\res
+com.example.samp.app-jetified-core-ktx-1.10.1-5 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\2c35bfc24d43fa785308b1359f53e484\transformed\jetified-core-ktx-1.10.1\res
+com.example.samp.app-jetified-window-1.0.0-beta04-6 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\40ff8c014bc3b03149787e1d45a42dea\transformed\jetified-window-1.0.0-beta04\res
+com.example.samp.app-swiperefreshlayout-1.1.0-7 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\42705a8026b9ca9f76283bb42f386222\transformed\swiperefreshlayout-1.1.0\res
+com.example.samp.app-jetified-lifecycle-process-2.6.1-8 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\49312778096aa9fd5ae6308578ecbdb0\transformed\jetified-lifecycle-process-2.6.1\res
+com.example.samp.app-jetified-firebase-common-20.3.3-9 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\59e1e372748fafe695505fff588c45a6\transformed\jetified-firebase-common-20.3.3\res
+com.example.samp.app-jetified-annotation-experimental-1.3.0-10 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\5de110dc71799d3cf665adf3417fdacd\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.samp.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-11 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\5e93467b13fe70f9b92140a31e5438c7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.samp.app-jetified-emoji2-views-helper-1.2.0-12 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\647c7396e613fd6186296a9a276359ee\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.samp.app-core-runtime-2.2.0-13 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\67a6fecc4ba866a1e75a84d8a69871ab\transformed\core-runtime-2.2.0\res
+com.example.samp.app-lifecycle-runtime-2.6.1-14 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\735f8807ecf05e417c0077150ca5d0a0\transformed\lifecycle-runtime-2.6.1\res
+com.example.samp.app-lifecycle-livedata-core-2.6.1-15 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\76b88066b242dec067a1745c6e4c033d\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.samp.app-webkit-1.7.0-16 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\7e4aa461f579fd3ab4e1c3d1902a7ac1\transformed\webkit-1.7.0\res
+com.example.samp.app-jetified-appcompat-resources-1.5.1-17 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\8fa0dfc2c3c5e7726186e6860ebed958\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.samp.app-fragment-1.3.6-18 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\91091d4f6bf99f827f5cf7bf6de62619\transformed\fragment-1.3.6\res
+com.example.samp.app-appcompat-1.5.1-19 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\a4e2a721ad5eb13725c986ed81cfc36f\transformed\appcompat-1.5.1\res
+com.example.samp.app-jetified-play-services-basement-18.1.0-20 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\ad3fb7e0e58165c0e3c87f8f0d79631f\transformed\jetified-play-services-basement-18.1.0\res
+com.example.samp.app-lifecycle-livedata-2.6.1-21 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\b6ded804b264f1b9098db8fd354ef78f\transformed\lifecycle-livedata-2.6.1\res
+com.example.samp.app-browser-1.4.0-22 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\c1463af6cb467bf02a2c891016443d37\transformed\browser-1.4.0\res
+com.example.samp.app-jetified-activity-1.7.2-23 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\d7703f7f09d951a2696d913f93f67be5\transformed\jetified-activity-1.7.2\res
+com.example.samp.app-core-1.10.1-24 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\e73600b7204754fa6eaab4c4f4dd2179\transformed\core-1.10.1\res
+com.example.samp.app-jetified-window-java-1.0.0-beta04-25 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\ed438543a8e9ffa856a2b095c92f0ea3\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.samp.app-jetified-profileinstaller-1.3.0-26 C:\Users\C.Lakshmi Prasanna\.gradle\caches\transforms-3\ef4c45e08659a72755f147d134c0e2af\transformed\jetified-profileinstaller-1.3.0\res
+com.example.samp.app-debug-27 E:\flutproj\samp\android\app\src\debug\res
+com.example.samp.app-main-28 E:\flutproj\samp\android\app\src\main\res
+com.example.samp.app-google-services-29 E:\flutproj\samp\build\app\generated\res\google-services\debug
+com.example.samp.app-pngs-30 E:\flutproj\samp\build\app\generated\res\pngs\debug
+com.example.samp.app-resValues-31 E:\flutproj\samp\build\app\generated\res\resValues\debug
+com.example.samp.app-rs-32 E:\flutproj\samp\build\app\generated\res\rs\debug
+com.example.samp.app-mergeDebugResources-33 E:\flutproj\samp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.samp.app-mergeDebugResources-34 E:\flutproj\samp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.samp.app-merged_res-35 E:\flutproj\samp\build\app\intermediates\merged_res\debug
+com.example.samp.app-packaged_res-36 E:\flutproj\samp\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-37 E:\flutproj\samp\build\file_picker\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-38 E:\flutproj\samp\build\firebase_auth\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-39 E:\flutproj\samp\build\firebase_core\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-40 E:\flutproj\samp\build\firebase_database\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-41 E:\flutproj\samp\build\firebase_storage\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-42 E:\flutproj\samp\build\flutter_inappwebview\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-43 E:\flutproj\samp\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-44 E:\flutproj\samp\build\image_picker_android\intermediates\packaged_res\debug
+com.example.samp.app-packaged_res-45 E:\flutproj\samp\build\webview_flutter_android\intermediates\packaged_res\debug
